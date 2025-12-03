@@ -36,8 +36,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/YourName/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/laowang404/BIT-Srun-Autologin-Browser.git
+cd BIT-Srun-Autologin-Browser
 ```
 
 ### 2. 安装依赖
